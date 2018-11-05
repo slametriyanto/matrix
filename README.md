@@ -60,3 +60,4 @@ Example Default Config :
 ![2018-08-16_15h29_48](https://user-images.githubusercontent.com/42184550/44197607-4ff69c00-a169-11e8-9acc-bb78bf8808c5.png)
 
 
+written by Kevien Aqbar
