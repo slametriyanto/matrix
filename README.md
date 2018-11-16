@@ -80,5 +80,5 @@ Example Default Config :
 - Ekawati Marlina (Indonesian Institute of Sciences)
 - Sjaeful Afandi (Indonesian Institute of Sciences)
 - Rodiah (Gunadarma University)
-- Kelvin Aqbar (Gunadarma University)
+- Kevin Aqbar (Gunadarma University)
 
