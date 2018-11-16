@@ -1,5 +1,19 @@
-# matrix
-Top 25 Collaboration Matrix Feature RIN
+# Matrix
+Collaboration Matrix is a visualization showing the connectedness and collaboration between authors and their affiliations. Visit https://rin.lipi.go.id/matrix/ to play with a production installation.
+
+The "Content of Relations" dropdown is used to select the contents of matrix collaboration content. There are 2 choices of content, namely:
+
+1. Based on Author = displays a collaboration matrix between the author name.
+2. Based on Affiliation = displays a collaboration matrix between affiliation.
+
+The "Order by" dropdown is used to sort the appearance of the matrix. There are 4 types of order choices, namely:
+
+1. Name (A-Z) = sort by alphabetical order name.
+2. Highest Frequency = sort by the highest collaboration frequency.
+3. Count Per Name = sort by number of collaborations per name.
+4. Leaf Order = sort by proximity of collaboration values per name.
+
+The first 25 collaborations are displayed.
 
 Minimum Requirement :
 - Glassfish 4
