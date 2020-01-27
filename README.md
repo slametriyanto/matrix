@@ -1,5 +1,5 @@
 # Matrix
-Collaboration Matrix is a visualization showing the connectedness and collaboration between authors and their affiliations. Visit https://rin.lipi.go.id/matrix/ to play with a production installation.
+Collaboration Matrix is a visualization showing the connectedness and collaboration between authors and their affiliations. Visit https://data.lipi.go.id/matrix/ to play with a production installation.
 
 **The "Content of Relations"** dropdown is used to select the contents of matrix collaboration content. There are 2 choices of content, namely:
 
@@ -75,8 +75,8 @@ Example Default Config :
 
 
 **Developer Team**
-- Hendro Subagyo (Indonesian Institute of Sciences)
 - Slamet Riyanto (Indonesian Institute of Sciences)
+- Hendro Subagyo (Indonesian Institute of Sciences)
 - Ekawati Marlina (Indonesian Institute of Sciences)
 - Sjaeful Afandi (Indonesian Institute of Sciences)
 - Rodiah (Gunadarma University)
