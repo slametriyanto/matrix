@@ -1,6 +1,10 @@
 # Matrix
 Collaboration Matrix is a visualization showing the connectedness and collaboration between authors and their affiliations. Visit https://data.lipi.go.id/matrix/ to play with a production installation.
 
+# Source Code
+The module is free open source, everyone can modify however still refer to Developer Team on link address.
+https://github.com/kevienaqbar/collaborationmatrix
+
 **The "Content of Relations"** dropdown is used to select the contents of matrix collaboration content. There are 2 choices of content, namely:
 
 1. Based on Author = displays a collaboration matrix between the author name.
